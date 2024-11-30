@@ -1,1 +1,1 @@
-package week3.day1.assign;
+package week3.day2.assign;
